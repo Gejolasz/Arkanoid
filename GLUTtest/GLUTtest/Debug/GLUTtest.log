@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\chief\documents\visual studio 2015\projects\gluttest\gluttest\cfizyka.h(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chief\documents\visual studio 2015\projects\gluttest\gluttest\cfizyka.h(32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\chief\documents\visual studio 2015\projects\gluttest\gluttest\figura.h(10): warning C4005: 'PI': macro redefinition
+  c:\users\chief\documents\visual studio 2015\projects\gluttest\gluttest\cfizyka.h(3): note: see previous definition of 'PI'
+c:\users\chief\documents\visual studio 2015\projects\gluttest\gluttest\main.cpp(114): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\chief\documents\visual studio 2015\projects\gluttest\gluttest\main.cpp(115): warning C4305: 'argument': truncation from 'double' to 'float'
+  GLUTtest.vcxproj -> C:\Users\Chief\documents\visual studio 2015\Projects\GLUTtest\Debug\GLUTtest.exe
+  GLUTtest.vcxproj -> C:\Users\Chief\documents\visual studio 2015\Projects\GLUTtest\Debug\GLUTtest.pdb (Partial PDB)
